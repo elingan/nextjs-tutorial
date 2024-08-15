@@ -2,8 +2,8 @@
   "name": "nextjs-tutorial",
   "private": true,
   "scripts": {
-    "build": "next build --turbo",
     "dev": "next dev",
+    "build": "next build",
     "start": "next start"
   },
   "dependencies": {
